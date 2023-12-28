@@ -1,14 +1,3 @@
-## Features
-
-- user authentication - register, login
-- makes uses of a persistent object-based database to store user data
-- join multiple chatrooms and get messages from each
-- get list of chatrooms, create own chatroom
-- get list of people in a chatroom
-- private messaging
-- access from multiple computers in a network (not just a localhost app!)
-- terminal based user interface
-
 ## How to Run
 
 ``` bash
